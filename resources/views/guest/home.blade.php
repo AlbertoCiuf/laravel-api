@@ -9,11 +9,10 @@
 </head>
 <body>
     
-  <h1>Boolpress Home</h1>
   <div id="app">
 
   </div>
 
-  <script src="{{asset('guest/js/app.js')}}"></script>
+  <script src="{{asset('js/guest/app.js')}}"></script>
 </body>
 </html>
